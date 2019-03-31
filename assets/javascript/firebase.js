@@ -1,7 +1,7 @@
 
  // Initialize Firebase
  var config = {
-  apiKey: myKey,
+  apiKey: keyHolder.myKey,
   authDomain: "train-scheduler-faba1.firebaseapp.com",
   databaseURL: "https://train-scheduler-faba1.firebaseio.com",
   projectId: "train-scheduler-faba1",
