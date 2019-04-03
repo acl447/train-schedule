@@ -1,5 +1,3 @@
-//To hide API key from Github, declare variable that points to API key in the config.js file
-var myKey = config.myKey;
 
 
 //When submit button is clicked
