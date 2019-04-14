@@ -97,6 +97,8 @@ console.log("MINUTES AWAY: " + tMinutesTillTrain);
 var nextTrain = moment().add(tMinutesTillTrain, "minutes");
 console.log("ARRIVAL TIME: " + moment(nextTrain).format("hh:mm A"));
 
+
+//Append data to table
 var trainNameData = $("<td>").text(trainName);
 
 var destinationData = $("<td>").text(destination);
