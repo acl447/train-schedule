@@ -6,4 +6,6 @@ Just type in the train name, your destination, the first train time--what time t
 
 Sit back and watch the train schedule update!
 
+Technologies used to make this app are Firebase, HTML5, CSS, Moment.js, Bootstrap, JQuery and JavaScript.
+
 Link to deployed project on GitHub Pages: https://acl447.github.io/train-schedule/
